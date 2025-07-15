@@ -1,0 +1,6 @@
+loan_amnt,funded_amnt,int_rate,installment,annual_inc,dti,revol_bal,revol_util,open_acc,total_acc,delinq_2yrs,inq_last_6mths,pub_rec,term,emp_length,home_ownership,verification_status,purpose,application_type,grade,sub_grade,loan_status
+5000,5000,10.65,162.87,24000,27.65,13648,83.7,3,9,0,1,0,36,10,RENT,Verified,credit_card,Individual,B,B2,0
+10000,10000,13.49,234.56,55000,1.0,1687,9.4,3,4,0,0,0,60,2,MORTGAGE,Source Verified,debt_consolidation,Individual,C,C4,1
+15000,15000,7.9,472.31,65000,8.72,2956,53.9,2,10,0,0,0,36,5,RENT,Verified,credit_card,Individual,A,A1,0
+20000,20000,15.27,586.45,72000,20.0,5598,45.0,10,37,1,2,0,60,8,RENT,Not Verified,home_improvement,Individual,D,D5,1
+12000,12000,18.99,386.45,36000,12.5,2500,30.1,5,12,0,1,0,36,1,OWN,Source Verified,other,Individual,E,E1,0
